@@ -621,7 +621,7 @@
     <Compile Include="XPlane\IXPlaneConnection.cs" />
     <Compile Include="XPlane\XPlaneSettings.cs" />
     <Compile Include="XPlane\IXPlaneSettingsStorage.cs" />
-    <Compile Include="XPlane\IXPlaneUdp.cs" />
+    <Compile Include="XPlane\IXPlaneUDP.cs" />
     <Compile Include="XPlane\XPlaneRposReply.cs" />
   </ItemGroup>
   <ItemGroup>
